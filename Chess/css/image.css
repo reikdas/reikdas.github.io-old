@@ -6,16 +6,4 @@
     transform: rotate(90deg);
 }
 
-#background {
-    width: 100%; 
-    height: 100%; 
-    position: absolute; 
-    left: 0px; 
-    top: 0px; 
-    z-index: -1;
-}
-.stretch {
-    width:100%;
-    height:100%;
-}
 
